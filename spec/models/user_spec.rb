@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-aaaaaa
+bbbbbbb
 
 RSpec.describe User, type: :model do
   pending "add some examples to (or delete) #{__FILE__}"
